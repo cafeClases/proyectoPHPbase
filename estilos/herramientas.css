@@ -1,0 +1,22 @@
+/* [Archivo de herramientas del sitio] */
+/* En este archivo se definen las características adaptables a las secciones que el diagramador
+   elija. Se incorporan todas las clases para establecer en el HTML. */
+   
+	.dialogo {
+		
+	}
+	
+	.parte12 { width: 50%; }
+	.parte22 { width: 100%;}
+	
+	.parte14 { width: 25%; }
+	.parte24 { width: 50%; }
+	.parte34 { width: ; }
+	.parte44 { width: ; }
+	
+	.parte15 { }
+	
+	.fondoVerde { background-color: green; color: white;}
+	.fondoRojo  { background-color: red; color: white;}
+	.fondoAzul  { background-color: blue; color: white;}
+	
